@@ -5,3 +5,4 @@ try to add your name to this file
 
 # I know git now
 - [Arsalanse :heart:](https://github.com/arsalanses)
+- [shervin :heart:](https://github.com/s3verus)
